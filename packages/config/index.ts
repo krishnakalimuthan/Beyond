@@ -1,0 +1,2 @@
+// @beyond/config entrypoint
+export {};

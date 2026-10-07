@@ -1,0 +1,2 @@
+// @beyond/auth entrypoint
+export {};

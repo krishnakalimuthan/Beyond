@@ -1,0 +1,2 @@
+// @beyond/cache entrypoint
+export {};

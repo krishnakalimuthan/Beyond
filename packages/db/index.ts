@@ -1,0 +1,2 @@
+// @beyond/db entrypoint
+export {};

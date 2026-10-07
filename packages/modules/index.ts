@@ -1,0 +1,2 @@
+// @beyond/modules entrypoint
+export {};
